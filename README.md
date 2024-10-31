@@ -60,7 +60,7 @@ Para la revisión del Banckend, se realizó una lista de comprobación de los el
 
 ### 🧪 *Resultados de las pruebas:* 
  La documentación de las pruebas se desarrollaro en los siguientes archivos disponibles.
-
+- [*Proyecto de Automatización de Pruebas URBAN ROUTES*](https://github.com/KariaVega/qa-project-Urban-Grocers-app-es)  
 #### :file_folder: Documentación para el Backend (*API*):
   - Listas de comprobación: - [Link de Lista de comprobación](https://docs.google.com/spreadsheets/d/1Fq5p6_TYopFFrb-cHdXnNJeiVfkebj5y/edit?usp=sharing&ouid=117701476691019254617&rtpof=true&sd=true)
   - Reporte y seguimiento de errores: - [Link de Reporte de Errores](https://arqkarvga.atlassian.net/issues/?jql=project+%3D+%22KV1G4SIDE%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNDQwNzRlNmRlODk3NDkyYmFlNTA1ZDFkNzEwMzFkZjMiLCJwIjoiaiJ9)
