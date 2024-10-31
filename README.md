@@ -4,7 +4,7 @@
 ### :page_facing_up: *Documentación utilizada:* 
 - Requisitos para el back-end de Urban Grocers: [Link de Requisitos](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/QA_3.1.1_Requisitos_para_el_back-end_de_Urban.grocers.pdf)
 - Dirección del servidor: [Link de aplicacion](https://3cd0a718-aa1b-46c4-86bd-318797f0fda9.containerhub.tripleten-services.com)
-- Apidocs, documentación de la API:  [Link de Figma](https://cnt-345fbc31-54d8-4931-9fe1-6c8fd4c12c2d.containerhub.tripleten-services.com/docs/)
+- Apidocs, documentación de la API:  [Link de Apidocs](https://cnt-345fbc31-54d8-4931-9fe1-6c8fd4c12c2d.containerhub.tripleten-services.com/docs/)
 
 
 ### 🛠️ *Lenguajes y herramientas utilizadas:*
