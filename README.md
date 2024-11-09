@@ -31,7 +31,7 @@
 
 ### :fireworks: *Descripción del Backend (API) Urban Grocers*
 - El área de desarrollo ha agregado una nueva función en la API de Urban.Grocers, así que pasaron una nueva versión de la API para que la pruebes. La aplicación permite realizar pedidos y entrega de productos por catalogo.
-Para la revisión del Banckend, se realizó una lista de comprobación de los elementos con un total de 134 items. Se ejecutaron las pruebas manuales del aplicativo, utilizando solicitudes REST y en formato JSON para gestionar pedidos y entregas, comprobando la funcionalidad. A continuación, se enlistan las pruebas con sus especificaciones de cada una de ellas.
+Para la revisión del Banckend, se realizó una lista de comprobación de los elementos con un total de 134 items. Se ejecutaron las pruebas manuales del aplicativo, utilizando solicitudes HTTP y en formato JSON para gestionar pedidos y entregas, comprobando la funcionalidad. A continuación, se enlistan las pruebas con sus especificaciones de cada una de ellas.
 
 ### :paw_prints: *Pasos a seguir para la ejecución de las pruebas:* 
 
