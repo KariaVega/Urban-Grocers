@@ -13,8 +13,8 @@
 - Jira: Registro y seguimiento de errores.
 - Apidocs: Revisión de documentación de API's
 - Postman: Pruebas manuales.
-- HTTP: estructura.
-- REST: Solicitudes.
+- HTTP: protocolo.
+- REST: estructura.
 - JSON: Formato para solicitudes REST.
 - Diseño de pruebas para la API.
 - MS Office: Documentación de las pruebas.
@@ -25,7 +25,7 @@
 <img decoding="async" src="https://img.shields.io/badge/Postman-D83B01?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
 <img decoding="async" src="https://img.shields.io/badge/HTTP-D80B01?style=for-the-badge&logo=HTTP&logoColor=white" alt="HTTP"/>
 <img decoding="async" src="https://img.shields.io/badge/REST-black?style=for-the-badge&logo=REST&logoColor=white" alt="REST"/>
-<img decoding="async" src="https://img.shields.io/badge/JSON-30D5C8?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON"/>
+<img decoding="async" src="https://img.shields.io/badge/JSON-purple?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON"/>
 <img decoding="async" src="https://img.shields.io/badge/Microsoft_Office-D86B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft-office"/>
 </a>
 
@@ -38,9 +38,10 @@ Para la revisión del Banckend, se realizó una lista de comprobación de los el
 - Conexión al servidor medienta la URL.
 - Analisis de requisitos.
 - Elaboración de lista de comprobación.
-- Solicitudes REST
+- Protocolo HTTP
 - Solicitudes en formato JSON.
-- Registro y seguimiento de errores.
+- Estructura REST
+- Ejecución de las pruebas.
 
 ### :page_facing_up: *Lista de Comprobación de Pruebas:*  
 - Endpoints probados
